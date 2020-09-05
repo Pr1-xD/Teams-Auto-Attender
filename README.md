@@ -1,5 +1,10 @@
 
 # Teams-Auto-Joiner  
+
+## The code in this repo has been taken from the following repo, since the changes made in this code is branching from the main repo I have created a copy of this repo to work on it away from the origin that I pulled it from 
+
+### Repo cloned from 
+
 [![GitHub stars](https://img.shields.io/github/stars/TobiasPankner/Teams-Auto-Joiner.svg?style=social&label=Star)](https://GitHub.com/TobiasPankner/Teams-Auto-Joiner/stargazers/)    
 
 
